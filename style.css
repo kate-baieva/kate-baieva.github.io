@@ -1,7 +1,18 @@
 h1 {
-font-family: "Fira Sans Condensed";
-font-size: "60pt";
+font-family: "Istok Web";
+font-size: "80pt";
 color: rgb(204, 8, 34)
+  }
+h2 {
+font-family: "Istok Web";
+font-size: "24pt";
+color: rgb(40, 40, 40)
+  }
+h4 {
+font-family: "Playfair Display";
+font-size: "16pt";
+font-style: "bold";
+color: rgb(40, 40, 40)
 }
 p {
 font-family: "Playfair Display";
