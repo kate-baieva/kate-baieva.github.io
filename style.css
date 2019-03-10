@@ -1,5 +1,10 @@
 h1 {
-font-family: "Merriweather";
-font-size: "50pt";
-font-color: "#CC0822"
+font-family: "Fira Sans Condensed";
+font-size: "60pt";
+color: rgb(204, 8, 34)
 }
+p {
+font-family: "Playfair Display";
+font-size: "16pt";
+color: rgb(40, 40, 40)
+  }
